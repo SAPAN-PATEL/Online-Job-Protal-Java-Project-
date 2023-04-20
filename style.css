@@ -1,0 +1,19 @@
+ .navbar {
+ background:#283593 !important;
+}
+.navbar .nav-item .nav-link{
+font-size:18px;
+color:white !important;
+}
+.navbar .nav-item:hover .nav-link {
+background:white !important;
+color:black !important;
+border-radius: 10px;
+}
+
+.navbar-brand{
+color:white !important;
+}
+.bg-color{
+background:#283593 !important;
+}
