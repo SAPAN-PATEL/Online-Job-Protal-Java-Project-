@@ -3,8 +3,6 @@ package com.dao;
 import java.sql.ResultSet;
 
 import com.entity.User;
-//import com.mysql.jdbc.Connection;
-import java.sql.PreparedStatement;
 
 public class UserDAO {
 	private java.sql.Connection conn;
